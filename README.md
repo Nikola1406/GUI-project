@@ -1,0 +1,2 @@
+# GUI-project
+The project consists of 5 frames on which different geometric shapes are placed, with pauses during appearance and disappearance.After the last frame, the system tells the user that test will start within 3 seconds.The user has 4 questions to which he must answer and based on a certain number of correct answers he is given an appropriate grade.If the user gives the correct answer to all questions, his grade is excellent and his success will be written to the file
